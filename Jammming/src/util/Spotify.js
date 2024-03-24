@@ -1,4 +1,4 @@
-const cliendId = "59996db3257f49aa82cb679a345216e6";
+const cliendId = "";
 const redirectUri = "http://mere-parent.surge.sh";
 let accessToken;
 
